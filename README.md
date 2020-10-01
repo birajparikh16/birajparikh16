@@ -3,13 +3,13 @@
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-### Google Cloud Certified Professional Data Engineer having almost 2 years of hands-on working experience in building scalable data-pipeline for ingesting and analyzing large scale datasets and developing Machine Learning models to enable data-driven decisions. Currently, I’m a graduate student pursuing a Master’s Degree in Data Science at Indiana University Bloomington and I will be graduating next year in May 2021. 
+#### Google Cloud Certified Professional Data Engineer having almost 2 years of hands-on working experience in building scalable data-pipeline for ingesting and analyzing large scale datasets and developing Machine Learning models to enable data-driven decisions. Currently, I’m a graduate student pursuing a Master’s Degree in Data Science at Indiana University Bloomington and I will be graduating next year in May 2021. 
 
 𝗪𝗛𝗔𝗧 𝗡𝗘𝗫𝗧?
 ‾‾‾‾‾‾‾‾‾
+<br />
 With the blend of industry experience along with technical skills I developed during my Master’s Degree, I am keen to develop products that impact on a large scale. 𝙄 𝙖𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙤𝙤𝙠𝙞𝙣𝙜 𝙛𝙤𝙧 𝙁𝙪𝙡𝙡-𝙏𝙞𝙢𝙚 𝙟𝙤𝙗 𝙤𝙥𝙥𝙤𝙧𝙩𝙪𝙣𝙞𝙩𝙞𝙚𝙨 𝙖𝙣𝙙 𝙄 𝙖𝙢 𝙞𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙚𝙙 𝙞𝙣 𝘿𝙖𝙩𝙖 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 𝙖𝙣𝙙 𝘿𝙖𝙩𝙖 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 𝙧𝙤𝙡𝙚𝙨 🎯
 
-I'm a Data Engineer turned Data Scientist who loves building Machine Learning and Deep Learning models along with working with data pipelines! Right now, I'm pursuing MS in Data Science to explore my passion in the Data Science domain.
 
 ## I'm a Developer, and Teacher!
 
