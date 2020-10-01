@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there, I'm [Biraj Parikh!](https://linkedin.com/in/biraj-parikh) 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
@@ -100,5 +98,7 @@
 
 [website]: https://birajparikh16.github.io
 [linkedin]: https://www.linkedin.com/in/biraj-parikh/
+[medium]: https://medium.com/@birajparikh
+[github]: https://github.com/birajparikh16
 [twitter]: https://twitter.com/birajparikh16
 [instagram]: https://www.instagram.com/birajparikh16/
