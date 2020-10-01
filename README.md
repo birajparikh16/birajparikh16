@@ -45,13 +45,13 @@ With the blend of industry experience along with technical skills I developed du
 
 ### 🛠 &nbsp;Tech Stack
 
-► Programming Languages: Python, R, PyTorch, Scala, PySpark, SQL, shell-scripting.
-► Databases: MySQL, PostgreSQL, MongoDB (NoSQL), Cassandra, Amazon Redshift.
-► Machine Learning: Classification, Regression, Clustering, Neural Networks, Ensemble Learning, Forecasting, Dimension Reduction, Predictive modeling, CNN, GAN.
-► Libraries: Pandas, Numpy, Scikit-learn, NLTK, Requests, Matplotlib, tidyverse, ggplot2, dplyr, Tensorflow, Keras, Beautiful Soup.
-► Framework/Tools: Apache Spark, Spark Streaming, Hadoop, HBase, Hive, Nifi, Apache Kafka, Apache Airflow, Tableau, Git, GitHub, Bash, MS Office, IntelliJ, Jupyter Notebooks, Flask, FASTAPI.
-► DevOps Tools: Docker, Kubernetes.
-► Cloud Technologies: Amazon Web Service (AWS), Google Cloud Platform (GCP).
+► Programming Languages: Python, R, PyTorch, Scala, PySpark, SQL, shell-scripting.\
+► Databases: MySQL, PostgreSQL, MongoDB (NoSQL), Cassandra, Amazon Redshift.\
+► Machine Learning: Classification, Regression, Clustering, Neural Networks, Ensemble Learning, Forecasting, Dimension Reduction, Predictive modeling, CNN, GAN.\
+► Libraries: Pandas, Numpy, Scikit-learn, NLTK, Requests, Matplotlib, tidyverse, ggplot2, dplyr, Tensorflow, Keras, Beautiful Soup.\
+► Framework/Tools: Apache Spark, Spark Streaming, Hadoop, HBase, Hive, Nifi, Apache Kafka, Apache Airflow, Tableau, Git, GitHub, Bash, MS Office, IntelliJ, Jupyter Notebooks, Flask, FASTAPI.\
+► DevOps Tools: Docker, Kubernetes.\
+► Cloud Technologies: Amazon Web Service (AWS), Google Cloud Platform (GCP).\
 
 **Languages and Tools:**  
 
