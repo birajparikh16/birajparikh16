@@ -1,7 +1,28 @@
 ### Hi there, I'm [Biraj Parikh!](https://linkedin.com/in/biraj-parikh) <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+<a href="https://birajparikh16.github.io">
+  <img align="left" alt="Biraj's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.linkedin.com/in/biraj-parikh/">
+  <img align="left" alt="Biraj's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/birajparikh16">
+  <img align="left" alt="Biraj's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://medium.com/@birajparikh">
+  <img align="left" alt="Biraj's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+<a href="https://www.hackerrank.com/birajparikh16">
+  <img align="left" alt="Biraj's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+<a href="https://www.instagram.com/birajparikh16/">
+  <img align="left" alt="Biraj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+</a>
+<a href="https://twitter.com/birajparikh16">
+  <img align="left" alt="Biraj's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+<br />
 
 𝙂𝙤𝙤𝙜𝙡𝙚 𝘾𝙡𝙤𝙪𝙙 𝘾𝙚𝙧𝙩𝙞𝙛𝙞𝙚𝙙 𝙋𝙧𝙤𝙛𝙚𝙨𝙨𝙞𝙤𝙣𝙖𝙡 𝘿𝙖𝙩𝙖 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧 having almost 2 years of hands-on working experience in building scalable data-pipeline for ingesting and analyzing large scale datasets and developing Machine Learning models to enable data-driven decisions. Currently, I’m a graduate student pursuing a Master’s Degree in Data Science at Indiana University Bloomington and I will be graduating next year in May 2021. 
 
