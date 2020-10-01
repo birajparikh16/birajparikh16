@@ -43,6 +43,15 @@
 <br />
 With the blend of industry experience along with technical skills I developed during my Master’s Degree, I am keen to develop products that impact on a large scale. 𝙄 𝙖𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙤𝙤𝙠𝙞𝙣𝙜 𝙛𝙤𝙧 𝙁𝙪𝙡𝙡-𝙏𝙞𝙢𝙚 𝙟𝙤𝙗 𝙤𝙥𝙥𝙤𝙧𝙩𝙪𝙣𝙞𝙩𝙞𝙚𝙨 𝙖𝙣𝙙 𝙄 𝙖𝙢 𝙞𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙚𝙙 𝙞𝙣 𝘿𝙖𝙩𝙖 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 𝙖𝙣𝙙 𝘿𝙖𝙩𝙖 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 𝙧𝙤𝙡𝙚𝙨 🎯
 
+### 🛠 &nbsp;Tech Stack
+
+► Programming Languages: Python, R, PyTorch, Scala, PySpark, SQL, shell-scripting.
+► Databases: MySQL, PostgreSQL, MongoDB (NoSQL), Cassandra, Amazon Redshift.
+► Machine Learning: Classification, Regression, Clustering, Neural Networks, Ensemble Learning, Forecasting, Dimension Reduction, Predictive modeling, CNN, GAN.
+► Libraries: Pandas, Numpy, Scikit-learn, NLTK, Requests, Matplotlib, tidyverse, ggplot2, dplyr, Tensorflow, Keras, Beautiful Soup.
+► Framework/Tools: Apache Spark, Spark Streaming, Hadoop, HBase, Hive, Nifi, Apache Kafka, Apache Airflow, Tableau, Git, GitHub, Bash, MS Office, IntelliJ, Jupyter Notebooks, Flask, FASTAPI.
+► DevOps Tools: Docker, Kubernetes.
+► Cloud Technologies: Amazon Web Service (AWS), Google Cloud Platform (GCP).
 
 **Languages and Tools:**  
 
