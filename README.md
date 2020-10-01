@@ -62,7 +62,7 @@ With the blend of industry experience along with technical skills I developed du
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/birajparikh16/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=birajparikh16&show_icons=true&include_all_commits=true&" alt="Biraj's github stats" />
 </a>
 
