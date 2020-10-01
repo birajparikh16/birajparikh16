@@ -96,6 +96,8 @@
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.birajparikh16.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 </details>
 
 [website]: https://birajparikh16.github.io
