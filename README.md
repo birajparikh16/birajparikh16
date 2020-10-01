@@ -1,7 +1,7 @@
 ## Hi there, I'm [Biraj Parikh!](https://linkedin.com/in/biraj-parikh) <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <a href="https://birajparikh16.github.io">
-  <img align="left" alt="Biraj's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/website.svg" />
+  <img align="left" alt="Biraj's Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
 <a href="https://www.linkedin.com/in/biraj-parikh/">
   <img align="left" alt="Biraj's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
