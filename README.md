@@ -53,8 +53,6 @@ With the blend of industry experience along with technical skills I developed du
 ► DevOps Tools: Docker, Kubernetes.\
 ► Cloud Technologies: Amazon Web Service (AWS), Google Cloud Platform (GCP).\
 
----
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -62,10 +60,18 @@ With the blend of industry experience along with technical skills I developed du
 - [Central Limit Theorem — A Real Life Case Study](https://medium.com/greyatom/central-limit-theorem-a-real-life-case-study-da079b4ba2fc)
 - [Decision tree Intuition](https://medium.com/greyatom/decision-tree-intuition-a38669005cb7)
 <!-- BLOG-POST-LIST:END -->
----
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=birajparikh16&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=birajparikh16&layout=compact&langs_count=8&hide=java,r&theme=react "/>
+</a>
+</p>
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>Github Stats</summary>
   
   [![Biraj's github stats](https://github-readme-stats.vercel.app/api?username=birajparikh16)](https://github.com/anuraghazra/github-readme-stats)
 
