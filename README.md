@@ -1,4 +1,4 @@
-### Hi there, I'm [Biraj Parikh!](https://linkedin.com/in/biraj-parikh) 👋
+### Hi there, I'm [Biraj Parikh!](https://linkedin.com/in/biraj-parikh) <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
@@ -11,14 +11,6 @@
 <br />
 With the blend of industry experience along with technical skills I developed during my Master’s Degree, I am keen to develop products that impact on a large scale. 𝙄 𝙖𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙤𝙤𝙠𝙞𝙣𝙜 𝙛𝙤𝙧 𝙁𝙪𝙡𝙡-𝙏𝙞𝙢𝙚 𝙟𝙤𝙗 𝙤𝙥𝙥𝙤𝙧𝙩𝙪𝙣𝙞𝙩𝙞𝙚𝙨 𝙖𝙣𝙙 𝙄 𝙖𝙢 𝙞𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙚𝙙 𝙞𝙣 𝘿𝙖𝙩𝙖 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 𝙖𝙣𝙙 𝘿𝙖𝙩𝙖 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 𝙧𝙤𝙡𝙚𝙨 🎯
 
-
-## I'm a Developer, and Teacher!
-
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
 
 **Languages and Tools:**  
 
