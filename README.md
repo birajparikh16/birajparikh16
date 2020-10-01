@@ -66,12 +66,6 @@ With the blend of industry experience along with technical skills I developed du
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=birajparikh16&show_icons=true&include_all_commits=true&" alt="Biraj's github stats" />
 </a>
 
-<details>
-  <summary>Github Stats</summary>
-  
-  [![Biraj's github stats](https://github-readme-stats.vercel.app/api?username=birajparikh16)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
 
 [website]: https://birajparikh16.github.io
 [linkedin]: https://www.linkedin.com/in/biraj-parikh/
