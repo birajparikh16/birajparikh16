@@ -1,7 +1,7 @@
 ## Hi there, I'm [Biraj Parikh!](https://linkedin.com/in/biraj-parikh) <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <a href="https://birajparikh16.github.io">
-  <img align="left" alt="Biraj's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/portfolio.svg" />
+  <img align="left" alt="Biraj's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/website.svg" />
 </a>
 <a href="https://www.linkedin.com/in/biraj-parikh/">
   <img align="left" alt="Biraj's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -23,7 +23,7 @@
 </a>
 
 <br />
-
+<br/>
 
 𝙂𝙤𝙤𝙜𝙡𝙚 𝘾𝙡𝙤𝙪𝙙 𝘾𝙚𝙧𝙩𝙞𝙛𝙞𝙚𝙙 𝙋𝙧𝙤𝙛𝙚𝙨𝙨𝙞𝙤𝙣𝙖𝙡 𝘿𝙖𝙩𝙖 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧 having almost 2 years of hands-on working experience in building scalable data-pipeline for ingesting and analyzing large scale datasets and developing Machine Learning models to enable data-driven decisions. Currently, I’m a graduate student pursuing a Master’s Degree in Data Science at Indiana University Bloomington and I will be graduating next year in May 2021. 
 
