@@ -36,7 +36,6 @@
 ✉️ &nbsp;You can shoot me an email at birajparikh16@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://birajparikh16.github.io/Biraj-Resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
-<br/>
 𝗪𝗛𝗔𝗧 𝗡𝗘𝗫𝗧?
 
 ‾‾‾‾‾‾‾‾‾
