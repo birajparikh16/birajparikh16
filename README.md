@@ -25,8 +25,18 @@
 <br />
 <br/>
 
-𝙂𝙤𝙤𝙜𝙡𝙚 𝘾𝙡𝙤𝙪𝙙 𝘾𝙚𝙧𝙩𝙞𝙛𝙞𝙚𝙙 𝙋𝙧𝙤𝙛𝙚𝙨𝙨𝙞𝙤𝙣𝙖𝙡 𝘿𝙖𝙩𝙖 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧 having almost 2 years of hands-on working experience in building scalable data-pipeline for ingesting and analyzing large scale datasets and developing Machine Learning models to enable data-driven decisions. Currently, I’m a graduate student pursuing a Master’s Degree in Data Science at Indiana University Bloomington and I will be graduating next year in May 2021. 
+### 👨🏻‍💻 &nbsp;About Me
 
+💡 &nbsp;I'm a 𝙂𝙤𝙤𝙜𝙡𝙚 𝘾𝙡𝙤𝙪𝙙 𝘾𝙚𝙧𝙩𝙞𝙛𝙞𝙚𝙙 𝙋𝙧𝙤𝙛𝙚𝙨𝙨𝙞𝙤𝙣𝙖𝙡 𝘿𝙖𝙩𝙖 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧.\
+🎓 &nbsp;I'm a graduate student pursuing a Master’s Degree in Data Science at Indiana University Bloomington and I will be graduating next year in May 2021.\
+📈 &nbsp;Almost 2 years of hands-on working experience in building scalable data-pipeline for ingesting and analyzing large scale datasets.\
+🌱 &nbsp;I'm on track for learning more about Data Engineering, Systems Design, and Cloud Architecture.\
+✍️ &nbsp;In my free time, I go out to explore new places and play Tennis.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at birajparikh16@gmail.com! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://birajparikh16.github.io/Biraj-Resume.pdf) for more details about me. I'm open to feedback and suggestions!
+
+<br/>
 𝗪𝗛𝗔𝗧 𝗡𝗘𝗫𝗧?
 
 ‾‾‾‾‾‾‾‾‾
