@@ -28,7 +28,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm a 𝙂𝙤𝙤𝙜𝙡𝙚 𝘾𝙡𝙤𝙪𝙙 𝘾𝙚𝙧𝙩𝙞𝙛𝙞𝙚𝙙 𝙋𝙧𝙤𝙛𝙚𝙨𝙨𝙞𝙤𝙣𝙖𝙡 𝘿𝙖𝙩𝙖 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧.\
-🎓 &nbsp;I'm a graduate student pursuing a Master’s Degree in Data Science at Indiana University Bloomington and I will be graduating next year in May 2021.\
+🎓 &nbsp;Graduated from Indiana University Bloomington with a Master’s Degree in Data Science.\
 📈 &nbsp;3+ years of hands-on working experience in building scalable data-pipeline for ingesting and analyzing large scale datasets.\
 🌱 &nbsp;I'm on track for learning more about Data Engineering, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I go out to explore new places and play Tennis.\
